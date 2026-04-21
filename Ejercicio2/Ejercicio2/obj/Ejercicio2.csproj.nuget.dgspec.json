@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\EJERCICIO1\\Ejercicio1\\Ejercicio1.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\Ejercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\EJERCICIO1\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\Ejercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\EJERCICIO1\\Ejercicio1\\Ejercicio1.csproj",
-        "projectName": "Ejercicio1",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\EJERCICIO1\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\Ejercicio2.csproj",
+        "projectName": "Ejercicio2",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\Ejercicio2.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\EJERCICIO1\\Ejercicio1\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

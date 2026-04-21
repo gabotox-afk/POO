@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\gabri\\onedrive\\escritorio\\gabi_things\\codeo\\poo\\ejercicio2\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\gabri\\onedrive\\escritorio\\gabi_things\\codeo\\poo\\ejercicio2\\ejercicio2\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0BF53A8-DE68-2C29-5B9E-A5CA5FE4C702}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cronometro.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\cronometro.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\cronometro.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\cronometro.cs",
+              "RelativeToolTip": "Ejercicio2\\cronometro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:37:35.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\gabi_things\\codeo\\POO\\Ejercicio2\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:36:31.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
